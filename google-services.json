@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922125637469",
+    "project_id": "labwork4-88720",
+    "storage_bucket": "labwork4-88720.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922125637469:android:8cec648a46b2bec584fab4",
+        "android_client_info": {
+          "package_name": "Labwork4.CoinFlip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGS9XfxTiRJGppBB7bFhdzbumoXFCgw-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
